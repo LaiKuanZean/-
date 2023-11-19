@@ -1,0 +1,7534 @@
+[
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市松山區健康服務中心",
+            "addr": "臺北市松山區八德路4段692號2樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5493,
+                25.048161
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "內政部營建署",
+            "addr": "臺北市松山區八德路2段342號1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.549368,
+                25.047914
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "交通部運輸研究所",
+            "addr": "臺北市松山區敦化北路240號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.549402,
+                25.060165
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "交通部公路總局臺北市區監理所",
+            "addr": "臺北市松山區八德路4段21號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5493,
+                25.048161
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北自來水事業處東區營業分處",
+            "addr": "臺北市松山區光復北路266號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.555493,
+                25.056905
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "三軍總醫院松山分院附設民眾診療服務處",
+            "addr": "臺北市松山區健康路131號5樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.557649,
+                25.054355
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "長庚醫療財團法人台北長庚紀念醫院",
+            "addr": "臺北市松山區敦化北路199號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.549584,
+                25.055385
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "基督復臨安息日會醫療財團法人臺安醫院",
+            "addr": "臺北市松山區八德路2段424號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.549368,
+                25.047914
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "博仁綜合醫院",
+            "addr": "臺北市松山區光復北路66號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.557608,
+                25.049979
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北大眾捷運股份有限公司（臺北小巨蛋）",
+            "addr": "臺北市松山區南京東路4段2號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.549716,
+                25.051648
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "微風廣場實業股份有限公司",
+            "addr": "臺北市松山區復興南路1段39號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.544254,
+                25.045439
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "家福股份有限公司三民分公司",
+            "addr": "臺北市松山區三民路160號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.563113,
+                25.061345
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北偶戲館",
+            "addr": "臺北市松山區市民大道5段99號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5790231,
+                25.049546
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府體育局（臺北體育館）",
+            "addr": "臺北市松山區南京東路4段10號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.549716,
+                25.051648
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "食祿軒餐廳股份有限公司慶城分公司",
+            "addr": "臺北市松山區復興北路99號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.544527,
+                25.052931
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館三民分館",
+            "addr": "臺北市松山區民生東路5段163之1號5樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.555738,
+                25.058267
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市東區單親家庭服務中心",
+            "addr": "臺北市松山區南京東路5段251巷46弄5號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.563826,
+                25.051487
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館啟明分館",
+            "addr": "臺北市松山區敦化北路155巷76號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.552123,
+                25.054246
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北國際航空站",
+            "addr": "臺北市松山區敦化北路340之9號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.551988,
+                25.061964
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北國際航空站",
+            "addr": "臺北市松山區敦化北路340之9號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.551988,
+                25.061964
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北國際航空站",
+            "addr": "臺北市松山區敦化北路340之9號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.551988,
+                25.061964
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北國際航空站",
+            "addr": "臺北市松山區敦話北路340之9號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.577272,
+                25.049885
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北國際航空站",
+            "addr": "臺北市松山區敦化北路340之9號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.551988,
+                25.061964
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北國際航空站",
+            "addr": "臺北市松山區敦化北路340之9號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.551988,
+                25.061964
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北國際航空站",
+            "addr": "臺北市松山區敦化北路340之9號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.551988,
+                25.061964
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北國際航空站",
+            "addr": "臺北市松山區敦化北路340之9號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.551988,
+                25.061964
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北國際航空站",
+            "addr": "臺北市松山區敦化北路340之9號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.551988,
+                25.061964
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "空軍松山基地指揮部",
+            "addr": "臺北市松山區民權東路4段121號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.567098,
+                25.063523
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府警察局松山分局",
+            "addr": "臺北市松山區南京東路4段12號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.549716,
+                25.051648
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市榮民服務處",
+            "addr": "臺北市松山區光復北路1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5570856,
+                25.0518393
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府社會局發展遲緩兒童早期療育通報及轉介中心",
+            "addr": "臺北市松山區民生東路5段163之1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.555738,
+                25.058267
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市松山區戶政事務所",
+            "addr": "臺北市松山區八德路4段692號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5493,
+                25.048161
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府民政局民生社區中心",
+            "addr": "臺北市松山區民生東路5段163之1號4樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.555738,
+                25.058267
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館民生分館",
+            "addr": "臺北市松山區敦化北路199巷5號4樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.552273396685,
+                25.05607255
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府體育局（臺北田徑場）",
+            "addr": "臺北市松山區敦化北路3號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.548692,
+                25.050102
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館松山分館",
+            "addr": "臺北市松山區八德路4段688號5~8樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5493,
+                25.048161
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "微風置地股份有限公司南京分公司",
+            "addr": "臺北市松山區南京東路3段337號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.557637,
+                25.051756
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市松山區公所",
+            "addr": "臺北市松山區八德路4段692號7樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5493,
+                25.048161
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市松山運動中心",
+            "addr": "臺北市松山區敦化北路1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.550364,
+                25.049299
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館中崙分館",
+            "addr": "臺北市松山區長安東路2段229號8樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.530483,
+                25.048503
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北大眾捷運股份有限公司松山機場站",
+            "addr": "臺北市松山區敦化北路338號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.551589,
+                25.063188
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北大眾捷運股份有限公司南京復興站",
+            "addr": "臺北市松山區南京東路3段253號地下2樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.557637,
+                25.051756
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市松山親子館",
+            "addr": "臺北市松山區民生東路5段163之1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.555738,
+                25.058267
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "兄弟大飯店",
+            "addr": "臺北市松山區南京東路3段255號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.557637,
+                25.051756
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "合尊酒店股份有限公司",
+            "addr": "臺北市松山區敦化北路150號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.548461,
+                25.054678
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "CITYLINK松山貳號店（潤泰百益股份有限公司）",
+            "addr": "臺北市松山區市民大道6段131號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5790231,
+                25.049546
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府警察局保安警察大隊",
+            "addr": "臺北市松山區延壽街339號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.559692,
+                25.056711
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府 （第一哺集乳室）",
+            "addr": "臺北市信義區市府路1號1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.564008,
+                25.037528
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府 （第二哺集乳室）",
+            "addr": "臺北市信義區市府路1號1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.564008,
+                25.037528
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市議會",
+            "addr": "臺北市信義區仁愛路4段507號1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.521707,
+                25.038592
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市信義區公所",
+            "addr": "臺北市信義區福德街86號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.580565,
+                25.03683
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市信義區戶政事務所",
+            "addr": "臺北市信義區福德街86號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.580565,
+                25.03683
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市松山地政事務所",
+            "addr": "臺北市信義區莊敬路391巷11弄2號1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5653256,
+                25.0288699
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市動物保護處",
+            "addr": "臺北市信義區吳興街600巷109號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5703533,
+                25.0197847
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府警察局婦幼警察隊",
+            "addr": "臺北市信義區信義路5段180號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.562227,
+                25.034454
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市信義運動中心",
+            "addr": "臺北市信義區松勤街100號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.566847,
+                25.0317
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "行政院公共工程委員會",
+            "addr": "臺北市信義區松仁路3號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.569415,
+                25.039429
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國軍退除役官兵輔導委員會",
+            "addr": "臺北市信義區忠孝東路5段222號1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.564579,
+                25.041104
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "內政部警政署刑事警察局",
+            "addr": "臺北市信義區忠孝東路4段553巷5號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.564579,
+                25.041104
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立聯合醫院松德院區",
+            "addr": "臺北市信義區松德路309號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.574661,
+                25.029292
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "財團法人私立臺北醫學大學附設醫院",
+            "addr": "臺北市信義區吳興街250號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.561589,
+                25.026079
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "交通部臺灣鐵路管理局松山車站",
+            "addr": "臺北市信義區松山路11號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.578164,
+                25.049154
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "交通部臺灣鐵路管理局松山車站",
+            "addr": "臺北市信義區松山路11號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.578164,
+                25.049154
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "新光三越百貨股份有限公司信義二館-A8",
+            "addr": "臺北市信義區松高路12號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.566831,
+                25.038468
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "新光三越百貨股份有限公司信義分公司A11館",
+            "addr": "臺北市信義區松壽路11號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.567113,
+                25.036179
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "誠品生活股份有限公司信義店",
+            "addr": "臺北市信義區松高路11號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.565045,
+                25.039679
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府警察局信義分局",
+            "addr": "臺北市信義區信義路5段17號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.562227,
+                25.034454
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "統一開發股份有限公司",
+            "addr": "臺北市信義區忠孝東路5段6號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.564579,
+                25.041104
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北大眾捷運股份有限公司市政府站",
+            "addr": "臺北市信義區忠孝東路5段2號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.564579,
+                25.041104
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "新光三越百貨股份有限公司台北信義分公司三館A9",
+            "addr": "臺北市信義區松壽路9號3樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.566684,
+                25.036731
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "BELLAVITA寶麗廣場",
+            "addr": "臺北市信義區松仁路28號3樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.568534,
+                25.039552
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "統一百華股份有限公司台北分公司",
+            "addr": "臺北市信義區忠孝東路5段8號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.564579,
+                25.041104
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "遠百企業股份有限公司 （忠孝分公司）",
+            "addr": "臺北市信義區忠孝東路5段297號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.564579,
+                25.041104
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "松山文創園區",
+            "addr": "臺北市信義區光復南路133號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.560333,
+                25.043553
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館永春分館",
+            "addr": "臺北市信義區松山路294號3樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.577553,
+                25.043102
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館三興分館",
+            "addr": "臺北市信義區吳興街156巷6號4至5樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.561074,
+                25.028994
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北世界貿易中心展覽大樓（世貿一館）",
+            "addr": "臺北市信義區信義路5段5號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.562227,
+                25.034454
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "威秀影城股份有限公司",
+            "addr": "臺北市信義區松壽路20號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.567296,
+                25.035044
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北世界貿易中心展覽大樓（世貿一館）",
+            "addr": "臺北市信義區信義路5段5號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.562227,
+                25.034454
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北世界貿易中心展覽大樓（世貿一館）",
+            "addr": "臺北市信義區信義路5段5號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.562227,
+                25.034454
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "誠品生活股份有限公司松菸店",
+            "addr": "臺北市信義區菸廠路88號3樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.561255,
+                25.04455
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北大眾捷運股份有限公司台北101世貿站",
+            "addr": "臺北市信義區信義路5段20號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.562227,
+                25.034454
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "微風置地股份有限公司松高分公司",
+            "addr": "臺北市信義區松高路16號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.567288,
+                25.037912
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市信義親子館",
+            "addr": "臺北市信義區松勤街50號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.561957,
+                25.03147
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "微風置地股份有限公司信義分公司",
+            "addr": "臺北市信義區忠孝東路5段68號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.564579,
+                25.041104
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "台北金融大樓股份有限公司",
+            "addr": "臺北市信義區市府路45號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.564406,
+                25.034055
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "台北金融大樓股份有限公司",
+            "addr": "臺北市信義區市府路45號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.564406,
+                25.034055
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "時代國際飯店股份有限公司",
+            "addr": "臺北市信義區忠孝東路5段10號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.564579,
+                25.041104
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國立國父紀念館",
+            "addr": "臺北市信義區仁愛路4段505號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.521707,
+                25.038592
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "新光三越百貨股份有限公司台北信義分公司四館A4",
+            "addr": "臺北市信義區松高路19號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.566351,
+                25.039346
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "潤泰百益股份有限公司（Citylink松山店）",
+            "addr": "臺北市信義區松山路11號3樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.578164,
+                25.049154
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北醫學大學",
+            "addr": "臺北市信義區吳興街250號 "
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.561589,
+                25.026079
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "中華民國對外貿易發展協會台北世貿中心展會營運處（台北國際會議中心）",
+            "addr": "臺北市信義區信義路5段1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.562227,
+                25.034454
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "微風置地股份有限公司南山分公司",
+            "addr": "臺北市信義區松智路17號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.566353,
+                25.034416
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "吸引力生活事業股份有限公司（ATT 4 FUN 信義店）",
+            "addr": "臺北市信義區松壽路12號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.566081,
+                25.035436
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "吸引力生活事業股份有限公司（ATT 4 FUN 信義店）",
+            "addr": "臺北市信義區松壽路12號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.566081,
+                25.035436
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "豐隆大飯店股份有限公司（台北君悅酒店）",
+            "addr": "臺北市信義區松壽路2號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.562964,
+                25.035274
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "寒舍國際酒店股份有限公司（寒舍艾麗酒店）",
+            "addr": "臺北市信義區松高路18號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.567399,
+                25.038789
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "寒舍餐旅管理顧問股份有限公司信義分公司（台北寒舍艾美酒店）",
+            "addr": "臺北市信義區松仁路38號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.567956,
+                25.037822
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "遠東百貨股份有限公司",
+            "addr": "臺北市信義區松仁路58號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.567956,
+                25.036756
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館總館",
+            "addr": "臺北市大安區建國南路2段125號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.537458,
+                25.023034
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市客家文化會館",
+            "addr": "臺北市大安區信義路3段157巷11號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.533219,
+                25.033859
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "公務人力發展中心",
+            "addr": "臺北市大安區新生南路3段30號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.534772,
+                25.025873
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "經濟部智慧財產局",
+            "addr": "臺北市大安區辛亥路2段185號3樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.537695,
+                25.022419
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "經濟部工業局",
+            "addr": "臺北市大安區信義路3段41之3號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.533219,
+                25.033859
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立聯合醫院仁愛院區",
+            "addr": "臺北市大安區仁愛路四段10號2樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.543873,
+                25.038152
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "中山醫療社團法人中山醫院",
+            "addr": "臺北市大安區仁愛路4段112巷11號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.53303,
+                25.037985
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北大眾捷運股份有限公司忠孝復興站",
+            "addr": "臺北市大安區忠孝東路4段47號3樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.553454,
+                25.041666
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "太平洋崇光百貨股份有限公司忠孝館",
+            "addr": "臺北市大安區忠孝東路4段45號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.553454,
+                25.041666
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市大安運動中心",
+            "addr": "臺北市大安區辛亥路3段55號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.537695,
+                25.022419
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "明曜百貨股份有限公司",
+            "addr": "臺北市大安區忠孝東路4段200號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.553454,
+                25.041666
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "台灣電力股份有限公司台北市區營業處",
+            "addr": "臺北市大安區基隆路4段75號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.540074,
+                25.013466
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市大安區公所",
+            "addr": "臺北市大安區新生南路2段86號8至9樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.53469,
+                25.025813
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市殯葬管理處第二殯儀館",
+            "addr": "臺北市大安區辛亥路3段330號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.537695,
+                25.022419
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市大安區健康服務中心",
+            "addr": "臺北市大安區辛亥路3段15號1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.537695,
+                25.022419
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "交通部觀光局",
+            "addr": "臺北市大安區忠孝東路4段290號9樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.553454,
+                25.041666
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府警察局大安分局",
+            "addr": "臺北市大安區仁愛路3段2號1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.543873,
+                25.038152
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺灣銀行信義分行",
+            "addr": "臺北市大安區信義路2段88號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.545524,
+                25.03343
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北大眾捷運股份有限公司忠孝新生站",
+            "addr": "臺北市大安區新生南路1段67號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.535337,
+                25.017768
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "太平洋崇光百貨股份有限公司復興館",
+            "addr": "臺北市大安區忠孝東路3段300號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.543838,
+                25.041556
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "遠企購物中心（亞東百貨股份有限公司）",
+            "addr": "臺北市大安區敦化南路2段203號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.548304,
+                25.033055
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市大安地政事務所",
+            "addr": "臺北市大安區信義路4段335巷6號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.54551,
+                25.03343
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺灣銀行信安分行",
+            "addr": "臺北市大安區信義路3段132號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.533219,
+                25.033859
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "財政部臺北市國稅局大安分局",
+            "addr": "臺北市大安區新生南路2段86號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.53469,
+                25.025813
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館龍安民眾閱覽室",
+            "addr": "臺北市大安區永康街60號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.529357,
+                25.028574
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館道藩分館",
+            "addr": "臺北市大安區辛亥路3段11號3樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.537695,
+                25.022419
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國家教育研究院",
+            "addr": "臺北市大安區和平東路1段179號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.54671,
+                25.024637
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "土地銀行和平分行",
+            "addr": "臺北市大安區和平東路3段15號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.546762,
+                25.024633
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "太平洋崇光百貨股份有限公司敦化館",
+            "addr": "臺北市敦化南路1段246號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.549355,
+                25.047676
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "建南區民活動中心",
+            "addr": "臺北市大安區信義路3段134巷82號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.533219,
+                25.033859
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市大安森林公園",
+            "addr": "臺北市大安區新生南路2段1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.53469,
+                25.025813
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北大眾捷運股份有限公司東門站",
+            "addr": "臺北市大安區信義路2段166號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.545524,
+                25.03343
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北大眾捷運股份有限公司大安站",
+            "addr": "臺北市大安區信義路3段180號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.533219,
+                25.033859
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北大眾捷運股份有限公司大安森林公園站",
+            "addr": "臺北市大安區信義路3段100號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.533219,
+                25.033859
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "鼎鼎大飯店股份有限公司台北遠東國際大飯店",
+            "addr": "臺北市大安區敦化南路2段201號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.548304,
+                25.033055
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "台北福華大飯店",
+            "addr": "臺北市大安區仁愛路3段160號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.543873,
+                25.038152
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北和平籃球館",
+            "addr": "臺北市大安區敦南街76巷28號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.546478839058,
+                25.021483
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北和平籃球館",
+            "addr": "臺北市大安區敦南街76巷28號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.546478839058,
+                25.021483
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國聯飯店",
+            "addr": "臺北市大安區光復南路200號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5564468,
+                25.0420499
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "福容大飯店股份有限公司台北分公司",
+            "addr": "臺北市大安區建國南路1段266號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.537295,
+                25.021311
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "公有南門市場",
+            "addr": "臺北市大安區杭州南路2段55號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.524228,
+                25.035199
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市中山區健康服務中心",
+            "addr": "臺北市中山區松江路367號7樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.533602,
+                25.064468
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市中山地政事務所",
+            "addr": "臺北市中山區松江路357巷1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5342865,
+                25.0634027
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立美術館",
+            "addr": "臺北市中山北路3段181號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.52775,
+                25.056694
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府警察局中山分局",
+            "addr": "臺北市中山區中山北路2段1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.523408,
+                25.070766
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立聯合醫院林森中醫昆明院區",
+            "addr": "臺北市中山區林森北路530號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.525621,
+                25.063027
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "協和婦女醫院",
+            "addr": "臺北市中山區松江路85巷5號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.534419,
+                25.050178
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "台灣基督長老教會馬偕醫療財團法人馬偕紀念醫院",
+            "addr": "臺北市中山區中山北路2段92號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.523408,
+                25.070766
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "新光三越百貨股份有限公司台北南西分公司",
+            "addr": "臺北市中山區南京西路12號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.521098,
+                25.052085
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "美麗華城市發展股份有限公司",
+            "addr": "臺北市中山區敬業三路20號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.556681,
+                25.082967
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "財團法人台灣敦睦聯誼會所屬作業組織圓山大飯店",
+            "addr": "臺北市中山區中山北路4段1巷1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.523307,
+                25.070553
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "教育部體育署",
+            "addr": "臺北市中山區朱崙街20號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.539654,
+                25.049765
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市中山運動中心",
+            "addr": "臺北市中山區中山北路2段44巷2號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.523408,
+                25.070766
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市殯葬管理處第一殯儀館",
+            "addr": "臺北市中山區民權東路2段145號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.537543,
+                25.062144
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北自來水事業處北區營業分處",
+            "addr": "臺北市中山區長安西路3號2樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.521022,
+                25.050309
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "潤泰創新國際股份有限公司中崙分公司",
+            "addr": "臺北市中山區八德路2段306號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.549368,
+                25.047914
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "家樂福大直店",
+            "addr": "臺北市中山區樂群三路218號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.558661,
+                25.082628
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館大直分館",
+            "addr": "臺北市中山區大直街25號3至5樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.546748,
+                25.081879
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館恆安民眾閱覽室",
+            "addr": "臺北市中山區民權東路1段71巷19號2樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.539097,
+                25.062969
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館中山分館",
+            "addr": "臺北市中山區松江路367號8樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.533602,
+                25.064468
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "桑斯伯國際有限公司榮星公園營業站（臺北市政府勞動局委外）",
+            "addr": "臺北市中山區建國北路3段39號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.537285,
+                25.063853
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "中山老人住宅暨服務中心",
+            "addr": "臺北市中山區新生北路2段101巷2號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.52775,
+                25.056701
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "花博公園天使生活館",
+            "addr": "臺北市中山區濱江街6號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.528115,
+                25.070716
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "桑斯博國際有限公司新生公園營業站（臺北市政府工務局公園路燈管理處新生公園游泳池委外）",
+            "addr": "臺北市中山區新生北路3段105號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.52775,
+                25.056694
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府民政局林安泰古厝民俗文物館",
+            "addr": "臺北市中山區濱江街5號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.530462,
+                25.072431
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "財政部臺北國稅局松山分局",
+            "addr": "臺北市中山區南京東路3段131號3樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.543958,
+                25.051773
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館長安分館",
+            "addr": "臺北市中山區長安西路3號4樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.521022,
+                25.050309
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "中山公民會館",
+            "addr": "臺北市中山區中山北路2段128號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.523408,
+                25.070766
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "新光三越百貨股份有限公司台北南西分公司三館",
+            "addr": "臺北市中山區南京西路15號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.520455,
+                25.052576
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北漁產運銷股份有限公司",
+            "addr": "臺北市中山區民族東路410巷2弄20號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.537388,
+                25.066845
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北農產運銷股份有限公司",
+            "addr": "臺北市中山區民族東路336號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.535999,
+                25.068137
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北大眾捷運股份有限公司松江南京站",
+            "addr": "臺北市中山區松江路126號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.533036,
+                25.052014
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "財政部臺北國稅局中北稽徵所",
+            "addr": "臺北市中山區松江路219號3樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.533412,
+                25.057321
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府消防局第三救災救護大隊中山中隊松江分隊",
+            "addr": "臺北市中山區松江路25巷9號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.534125,
+                25.047663
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "誠品生活股份有限公司南西分公司",
+            "addr": "臺北市中山區南京西路14號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.520667,
+                25.052188
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "老爺大酒店",
+            "addr": "臺北市中山區中山北路2段37之1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.523408,
+                25.070766
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "晶華酒店",
+            "addr": "臺北市中山區中山北路2段39巷3號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.523408,
+                25.070766
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "美麗信花園酒店",
+            "addr": "臺北市中山區市民大道3段83號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.567372,
+                25.0461218
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "台北亞都麗緻大飯店",
+            "addr": "臺北市中山區民權東路2段41號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.537543,
+                25.062144
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "欣欣百貨",
+            "addr": "臺北市中山區林森北路247號1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5270015,
+                25.0613312
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "歐華酒店",
+            "addr": "臺北市中山區林森北路646號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.525741,
+                25.067915
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國王大飯店",
+            "addr": "臺北市中山區南京東路1段118號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.537204,
+                25.052204
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "第一大飯店",
+            "addr": "臺北市中山區南京東路2段63號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.528039,
+                25.051838
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "台北美福大飯店",
+            "addr": "臺北市中山區樂群二路55號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.55379,
+                25.080604
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "義華酒店",
+            "addr": "臺北市中山區樂群二路197號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.558741,
+                25.079931
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "台北萬豪酒店",
+            "addr": "臺北市中山區樂群二路199號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.559283,
+                25.080476
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "花博公園圓山園區─臺北市休閒農業旅遊服務中心（財團法人臺北市會展產業發展基金會委外）",
+            "addr": "臺北市中山區玉門街1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.521244,
+                25.069468
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "立法院",
+            "addr": "臺北市中正區中山南路1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.51958,
+                25.044
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "內政部",
+            "addr": "臺北市中正區徐州路5號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.51954,
+                25.042182
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "交通部",
+            "addr": "臺北市中正區仁愛路1段50號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.519919,
+                25.039451
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "內政部移民署臺北市服務站",
+            "addr": "臺北市中正區廣州街15號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.508079,
+                25.035788
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺灣高等法院民事庭",
+            "addr": "臺北市中正區貴陽街1段233號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.516296,
+                25.045722
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺灣高等法院刑事庭",
+            "addr": "臺北市中正區博愛路127號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.51131,
+                25.037641
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "衛生福利部中央健康保險署臺北業務組",
+            "addr": "臺北市中正區公園路15之1號5樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.517434,
+                25.045204
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國家圖書館",
+            "addr": "臺北市中正區中山南路20號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.516696,
+                25.037612
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國立中正紀念堂管理處",
+            "addr": "臺北市中正區中山南路21號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.519233,
+                25.036982
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府警察局",
+            "addr": "臺北市中正區延平南路96號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.50959,
+                25.043889
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府警察局中正第一分局",
+            "addr": "臺北市中正區公園路15號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.517434,
+                25.045204
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府警察局中正第二分局",
+            "addr": "臺北市中正區南海路35號1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.513927,
+                25.032062
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市中正區公所",
+            "addr": "臺北市中正區忠孝東路1段108號8樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.520933,
+                25.046271
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市交通事件裁決所",
+            "addr": "臺北市中正區羅斯福路4段92號8樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.517527,
+                25.033144
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市稅捐稽徵處",
+            "addr": "臺北市中正區北平東路7之2號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.523729,
+                25.046365
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市中正區健康服務中心",
+            "addr": "臺北市中正區牯嶺街24號1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.515871,
+                25.030398
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立聯合醫院和平婦幼院區（和平院區）",
+            "addr": "臺北市中正區中華路2段33號A棟2樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.550901,
+                25.054096
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立聯合醫院和平婦幼院區（婦幼院區）",
+            "addr": "臺北市中正區福州街12號1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.519344,
+                25.02907
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立聯合醫院和平婦幼院區（婦幼院區）",
+            "addr": "臺北市中正區福州街12號1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.519344,
+                25.02907
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國立台灣大學醫學院附設醫院",
+            "addr": "臺北市中正區中山南路8號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.518491,
+                25.044215
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "三軍總醫院附設民眾診療服務處汀州院區",
+            "addr": "臺北市中正區汀州路3段40號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.525625,
+                25.020896
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺灣銀行股份有限公司",
+            "addr": "臺北市中正區重慶南路1段120號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.513412,
+                25.046765
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "交通部臺灣鐵路管理局台北運務段臺北站",
+            "addr": "臺北市中正區北平西路3號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.516969,
+                25.047885
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "交通部臺灣鐵路管理局台北運務段臺北站",
+            "addr": "臺北市中正區北平西路3號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.516969,
+                25.047885
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "台灣高速鐵路股份有限公司台北車站",
+            "addr": "臺北市中正區北平西路3號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.516969,
+                25.047885
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北大眾捷運股份有限公司臺北車站",
+            "addr": "臺北市中正區忠孝西路1段49號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.519343,
+                25.046014
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "新光三越百貨股份有限公司台北站前分公司",
+            "addr": "臺北市中正區忠孝西路1段66號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.519343,
+                25.046014
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "遠東百貨股份有限公司台北分司",
+            "addr": "臺北市中正區寶慶路32號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.509036,
+                25.041614
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "台北天成大飯店",
+            "addr": "臺北市中正區忠孝西路1段43號17樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.519343,
+                25.046014
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "台灣電力股份有限公司",
+            "addr": "臺北市中正區羅斯福路3段242號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.532246,
+                25.015812
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "台灣電力股份有限公司",
+            "addr": "臺北市中正區羅斯福路3段242號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.532246,
+                25.015812
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺灣銀行館前分行",
+            "addr": "臺北市中正區館前路49號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.515332,
+                25.044962
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "華山1914文創園區",
+            "addr": "臺北市中正區八德路1段1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.528878,
+                25.043747
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "華山1914文創園區",
+            "addr": "臺北市中正區八德路1段1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.528878,
+                25.043747
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北大眾捷運股份有限公司西門站",
+            "addr": "臺北市中正區寶慶路32之1號地下1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.509036,
+                25.041614
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "微風場站開發股份有限公司",
+            "addr": "臺北市中正區北平西路3號 "
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.516969,
+                25.047885
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國立台灣大學醫學院附設醫院",
+            "addr": "臺北市中正區中山南路7號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.51916,
+                25.040274
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "喜來登飯店",
+            "addr": "臺北市中正區忠孝東路1段12號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.520933,
+                25.046271
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館王貫英紀念館",
+            "addr": "臺北市中正區汀州路2段265號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.524856,
+                25.019761
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市客家文化主題公園",
+            "addr": "臺北市中正區汀州路3段2號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.525625,
+                25.020896
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺灣土地銀行營業部",
+            "addr": "臺北市中正區館前路46號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.514783,
+                25.044068
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "中華郵政股份有限公司臺北北門郵局",
+            "addr": "臺北市中正區博愛路1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.514386,
+                25.036977
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北大眾捷運股份有限公司中正紀念堂站",
+            "addr": "臺北市中正區羅斯福路1段8之1號地下2樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.532383,
+                25.015692
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北大眾捷運股份有限公司古亭站",
+            "addr": "臺北市中正區羅斯福路2段164之1號地下1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.532735,
+                25.015969
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北自來水事業處臺北自來水園區",
+            "addr": "臺北市中正區思源街1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.531732,
+                25.014118
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北自來水事業處臺北自來水園區",
+            "addr": "臺北市中正區思源街1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.531732,
+                25.014118
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市中正運動中心",
+            "addr": "臺北市中正區信義路1段1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.519298,
+                25.038524
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館城中分館",
+            "addr": "臺北市中正區濟南路2段46號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.51967,
+                25.04296
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺灣臺北地方法院",
+            "addr": "臺北市中正區博愛路131號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.51157,
+                25.036665
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺灣臺北地方法院檢察署",
+            "addr": "臺北市中正區博愛路131號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.51157,
+                25.036665
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "中華郵政股份有限公司郵政博物館",
+            "addr": "臺北市中正區重慶南路2段45號4樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.515163,
+                25.029563
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市中山堂管理所",
+            "addr": "臺北市中正區延平南路98號1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.509478,
+                25.043334
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府文化局所屬台北二二八紀念館",
+            "addr": "臺北市中正區凱達格蘭大道3號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.515562,
+                25.040408
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市站前地下街場地利用合作社",
+            "addr": "臺北市中正區忠孝西路1段50之1號地下1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.519343,
+                25.046014
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市台北地下街場地利用合作社1",
+            "addr": "臺北市中正區市民大道1段100號地下1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.518267,
+                25.032361
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市台北地下街場地利用合作社2",
+            "addr": "臺北市中正區市民大道1段100號地下1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.518267,
+                25.032361
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "立法院中興大樓（研究會館）",
+            "addr": "臺北市中正區濟南路1段3之1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.519976,
+                25.04327
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國家表演藝術中心國家兩院廳（國家音樂廳）",
+            "addr": "臺北市中正區中山南路21之1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.519233,
+                25.036982
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國家表演藝術中心國家兩院廳（國家戲劇院）",
+            "addr": "臺北市中正區中山南路21之1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.519233,
+                25.036982
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "台北國際藝術村",
+            "addr": "臺北市中正區北平東路7號2樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.523729,
+                25.046365
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "水源劇場",
+            "addr": "臺北市中正區羅斯福路4段92號10樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.517527,
+                25.033144
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市福安兒童服務中心（委託靖娟兒童安全文教基金會）",
+            "addr": "臺北市中正區汀州路1段123號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.534974,
+                25.013533
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "光華商場發展協會",
+            "addr": "臺北市中正區市民大道3段8號1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.531154,
+                25.04583
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "經濟部礦務局",
+            "addr": "臺北市中正區中華路1段53號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5391845,
+                24.9691247
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國立台灣博物館南門園區",
+            "addr": "臺北市中正區南昌路1段1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.515996,
+                25.033522
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "台北花園大酒店",
+            "addr": "臺北市中正區中華路2段1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5391845,
+                24.9691247
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府警察局交通警察大隊",
+            "addr": "臺北市中正區愛國西路26號1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.511141,
+                25.035083
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北青年職涯發展中心",
+            "addr": "臺北市中正區仁愛路1段17號2樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.519919,
+                25.039451
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "財團法人張榮發基金會",
+            "addr": "臺北市中正區中山南路11號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.51878,
+                25.038665
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "財團法人新匯流文化基金會委託經營辦理臺北市中正親子館",
+            "addr": "臺北市中正區仁愛路1段17號3樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.519919,
+                25.039451
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "三創數位生活園區",
+            "addr": "臺北市中正區市民大道3段2號7樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.531154,
+                25.04583
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "行政院農業委員會林務局農林航空測量所",
+            "addr": "臺北市中正區和平西路2段100號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.518267,
+                25.032361
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "信誼小太陽親子館",
+            "addr": "臺北市中正區重慶南路2段51號1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.515163,
+                25.029563
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "勞動部",
+            "addr": "臺北市中正區館前路77號9樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.515174,
+                25.043823
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺灣銀行仁愛分行",
+            "addr": "臺北市中正區仁愛路2段99號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.525242,
+                25.038073
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "衛生福利部中央健康保險署臺北業務組",
+            "addr": "臺北市中正區公園路15之1號1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.517434,
+                25.045204
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "台北凱撒大飯店",
+            "addr": "臺北市中正區忠孝西路1段38號3樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.519343,
+                25.046014
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "桃園大眾捷運股份有限公司臺北車站",
+            "addr": "臺北市中正區鄭州路8號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.514287,
+                25.048686
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北大眾捷運股份有限公司公館站",
+            "addr": "臺北市中正區羅斯福路4段64之1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.517527,
+                25.033144
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市家庭暴力暨性侵害防治中心委託財團法人現代婦女基金會經營管理同心園台北親子會面中心",
+            "addr": "臺北市中正區新生南路1段54巷5弄2號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.532775,
+                25.042293
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國立台灣博物館本館",
+            "addr": "臺北市中正區襄陽路2號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.515015,
+                25.042756
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國立台灣博物館古生物館",
+            "addr": "臺北市中正區襄陽路25號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.51439,
+                25.043632
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國家攝影文化中心（大阪商船株式會社台北支店舊址）",
+            "addr": "臺北市中正區忠孝西路1段70號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.519343,
+                25.046014
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "二二八國家紀念館",
+            "addr": "臺北市中正區南海路54號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.513898,
+                25.031405
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市青少年發展暨家庭教育中心",
+            "addr": "臺北市中正區仁愛路1段17號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.519919,
+                25.039451
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "中央健康保險署臺北業務組",
+            "addr": "臺北市中正區公園路15之1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.517434,
+                25.045204
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "中央健康保險署臺北業務組",
+            "addr": "臺北市中正區公園路15之1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.517434,
+                25.045204
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市大同區健康服務中心",
+            "addr": "臺北市大同區昌吉街52號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.517127,
+                25.065881
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立聯合醫院中興院區/門診",
+            "addr": "臺北市大同區鄭州路145號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.509192,
+                25.051317
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府警察局大同分局",
+            "addr": "臺北市大同區錦西街200號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.51552,
+                25.059261
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府工務局衛生下水道工程處",
+            "addr": "臺北市大同區酒泉街235號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5120408,
+                25.0722052
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市大同區公所",
+            "addr": "臺北市大同區昌吉街57號4樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.517127,
+                25.065881
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "財政部關務署",
+            "addr": "臺北市大同區塔城街13號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.510822,
+                25.05128
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市孔廟管理委員會",
+            "addr": "臺北市大同區大龍街275號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5159,
+                25.070812
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "家福股份有限公司重慶分公司",
+            "addr": "臺北市大同區重慶北路2段171號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.512798,
+                25.064132
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "萬達通實業股份有限公司臺北轉運站",
+            "addr": "臺北市大同區市民大道1段209號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.514399782411,
+                25.0492112
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "京站實業股份有限公司",
+            "addr": "臺北市大同區承德路1段1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.517843,
+                25.048913
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "京站實業股份有限公司",
+            "addr": "臺北市大同區承德路1段1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.517843,
+                25.048913
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "京站實業股份有限公司",
+            "addr": "臺北市大同區承德路1段1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.517843,
+                25.048913
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市藝文推廣處（大稻埕戲苑）",
+            "addr": "臺北市大同區迪化街1段21號8樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.510212,
+                25.05376
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市西區單親家庭服務中心",
+            "addr": "臺北市大同區迪化街1段21號7樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.510212,
+                25.05376
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺灣銀行延平分行",
+            "addr": "臺北市大同區南京西路406號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.509839,
+                25.053155
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺灣銀行民權分行",
+            "addr": "臺北市大同區承德路2段239號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.517844,
+                25.053438
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北當代藝術館",
+            "addr": "臺北市大同區長安西路39號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.519044,
+                25.05077
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北大眾捷運股份有限公司民權西路站",
+            "addr": "臺北市大同區民權西路72號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.51654,
+                25.061402
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館蘭州民眾閱覽室",
+            "addr": "臺北市大同區昌吉街57號4樓之6"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.517127,
+                25.065881
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館延平分館",
+            "addr": "臺北市大同區保安街47號5樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.512072,
+                25.059221
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館大同分館",
+            "addr": "臺北市大同區重慶北路3段318號1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.513295,
+                25.074272
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館建成分館",
+            "addr": "臺北市大同區民生西路198之20號4樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.516624,
+                25.057009
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北大眾捷運股份有限公司大橋頭站",
+            "addr": "臺北市大同區民權西路223號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.512694,
+                25.063198
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府消防局第四大隊大同中隊大同分隊",
+            "addr": "臺北市大同區重慶北路2段223號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.512798,
+                25.064132
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立聯合醫院中興院區兒童發展評估療育中心",
+            "addr": "臺北市大同區鄭州路145號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.509192,
+                25.051317
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "衛生福利部國民健康署",
+            "addr": "臺北市大同區塔城街36號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.51019,
+                25.051646
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北大眾捷運股份有限公司中山站",
+            "addr": "臺北市大同區南京西路55號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.519409,
+                25.053036
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市大同運動中心",
+            "addr": "臺北市大同區大龍街51號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.516255,
+                25.065707
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "台北君品大酒店",
+            "addr": "臺北市大同區承德路1段3號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.517843,
+                25.048913
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "三德觀光大飯店股份有限公司",
+            "addr": "臺北市大同區承德路3段49號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.51809,
+                25.053633
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府警察局刑事警察大隊",
+            "addr": "臺北市大同區重慶北路2段219號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.512798,
+                25.064132
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國立臺灣博物館鐵道部園區",
+            "addr": "臺北市大同區延平北路1段2號1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.511671,
+                25.055363
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國立臺灣博物館鐵道部園區（北門）",
+            "addr": "臺北市大同區延平北路1段2號1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.511671,
+                25.055363
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國立臺灣博物館鐵道部園區",
+            "addr": "臺北市大同區延平北路1段2號1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.511671,
+                25.055363
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市萬華區公所",
+            "addr": "臺北市萬華區和平西路3段120號12樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.4974795,
+                25.0351993
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市萬華區戶政事務所",
+            "addr": "臺北市萬華區和平西路3段120號4樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.4974795,
+                25.0351993
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "財政部臺北市國稅局萬華稽徵所",
+            "addr": "臺北市萬華區萬大路90巷1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.4994037,
+                25.0303478
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "財政部臺北國稅局",
+            "addr": "臺北市萬華區中華路1段2號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.499332,
+                25.031933
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館萬華分館",
+            "addr": "臺北市萬華區東園街19號6樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.495799,
+                25.027838
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "交通部臺灣鐵路局運務處臺北運務段萬華站",
+            "addr": "臺北市萬華區康定路382號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.499928,
+                25.033368
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國立臺灣大學醫學院附設醫院北護分院",
+            "addr": "臺北市萬華區內江街87號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.503613,
+                25.041865
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立聯合醫院林森中醫昆明院區",
+            "addr": "臺北市萬華區昆明街100號1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5046527,
+                25.0413965
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "西園醫療社團法人西園醫院",
+            "addr": "臺北市萬華區西園路2段270號6樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.498009,
+                25.03218
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "同仁院醫療財團法人萬華醫院",
+            "addr": "臺北市萬華區中華路2段606巷6號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.499332,
+                25.031933
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "台北仁濟院附設仁濟醫院",
+            "addr": "臺北市萬華區廣州街243號7樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.50009,
+                25.036656
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府民政局新移民會館（萬華區）",
+            "addr": "臺北市萬華區長沙街2段171號3樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5040773,
+                25.0403531
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "家福股份有限公司台北桂林分公司",
+            "addr": "臺北市萬華區桂林路1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.505805,
+                25.037894
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館東園分館",
+            "addr": "臺北市萬華區東園街199號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.498141,
+                25.022674
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館西園分館",
+            "addr": "臺北市萬華區興寧街6號4樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.501637,
+                25.032283
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "中華郵政股份有限公司莒光郵局",
+            "addr": "臺北市萬華區莒光路210號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.501097,
+                25.031367
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市萬華運動中心",
+            "addr": "臺北市萬華區西寧南路6之1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.506567,
+                25.047431
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立聯合醫院附設萬華門診部",
+            "addr": "臺北市萬華區東園街152號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.497778,
+                25.023107
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "西園29服飾創作基地",
+            "addr": "臺北市萬華區西園路2段9號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.498009,
+                25.03218
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "財團法人台北市文化基金會西門紅樓",
+            "addr": "臺北市萬華區成都路10號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.506676,
+                25.041831
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館柳鄉民眾閱覽室",
+            "addr": "臺北市萬華區環河南路2段102號4樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.504403,
+                25.047169
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館龍山分館",
+            "addr": "臺北市萬華區桂林路65巷6號3樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.502422,
+                25.038561
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館龍山分館",
+            "addr": "臺北市萬華區桂林路65巷6號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.502422,
+                25.038561
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市建成地政事務所",
+            "addr": "臺北市萬華區和平西路3段120號7至9樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.4974795,
+                25.0351993
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "龍山寺地下街商場",
+            "addr": "臺北市萬華區西園路1段145號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.498111,
+                25.032231
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "龍山文創基地",
+            "addr": "臺北市萬華區西園路1段145號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.498111,
+                25.032231
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市畜產運銷股份有限公司",
+            "addr": "臺北市萬華區環河南路2段338號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.504403,
+                25.047169
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府社會局龍山老人服務中心",
+            "addr": "臺北市萬華區梧州街36號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.497581,
+                25.035753
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "財團法人台北市文化基金會剝皮寮歷史街區",
+            "addr": "臺北市萬華區廣州街151號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.500483,
+                25.036641
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "龍山商場",
+            "addr": "臺北市萬華區和平西路3段120號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.4974795,
+                25.0351993
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市萬華親子館",
+            "addr": "臺北市萬華區水源路199號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.505559,
+                25.023327
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立文獻館",
+            "addr": "臺北市萬華區中華路1段174之1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.499332,
+                25.031933
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市萬華婦女暨家庭服務中心 （臺北市政府社會局委託財團法人台北基督教女青年會辦理）",
+            "addr": "臺北市萬華區東園街19號4樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.495799,
+                25.027838
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "糖業文化展示館",
+            "addr": "臺北市萬華區大理街132之10號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.49486,
+                25.033378
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "台北市青年公園高爾夫球練習場",
+            "addr": "臺北市萬華區國興路5號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.50741,
+                25.02473
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府警察局萬華分局",
+            "addr": "臺北市萬華區桂林路135號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.499469,
+                25.038684
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市文山區健康服務中心",
+            "addr": "臺北市文山區木柵路3段220號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.571204,
+                24.992224
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "銓敘部",
+            "addr": "臺北市文山區試院路1之2號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5484761,
+                24.9878007
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市文山區公所",
+            "addr": "臺北市文山區木柵路3段220號9樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.571204,
+                24.992224
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市文山區戶政事務所",
+            "addr": "臺北市文山區木柵路3段220號2樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.571204,
+                24.992224
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市古亭地政事務所",
+            "addr": "臺北市文山區萬隆街47之12號2至4樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.536033,
+                25.000693
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府警察局文山第一分局",
+            "addr": "臺北市文山區木柵路2段202號1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.564155,
+                24.98846
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府警察局文山第二分局",
+            "addr": "臺北市文山區景中街2號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.541059,
+                24.992688
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府環境保護局木柵垃圾焚化廠",
+            "addr": "臺北市文山區木柵路5段53號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.570992,
+                24.992051
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府公務人員訓練處",
+            "addr": "臺北市文山區萬美街2段21巷20號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.568729,
+                25.000502
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "公務人員保障暨培訓委員會",
+            "addr": "臺北市文山區試院路1之3號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5484761,
+                24.9878007
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立聯合醫院政大門診部",
+            "addr": "臺北市文山區指南路2段117號1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.579684,
+                24.983782
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立動物園",
+            "addr": "臺北市文山區新光路2段30號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.573904,
+                24.994511
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立動物園",
+            "addr": "臺北市文山區新光路2段30號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.573904,
+                24.994511
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立動物園",
+            "addr": "臺北市文山區新光路2段30號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.573904,
+                24.994511
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立動物園",
+            "addr": "臺北市文山區新光路2段30號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.573904,
+                24.994511
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立動物園",
+            "addr": "臺北市文山區新光路2段30號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.573904,
+                24.994511
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立萬芳醫院-委託財團法人臺北醫學大學辦理 ",
+            "addr": "臺北市文山區興隆路3段111號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.545176,
+                24.998822
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北大眾捷運股份有限公司動物園站",
+            "addr": "臺北市文山區新光路2段32號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.573904,
+                24.994511
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "博嘉運動公園",
+            "addr": "臺北市文山區木柵路4段159巷16號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.564332,
+                24.988463
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國立政治大學",
+            "addr": "臺北市文山區指南路2段64號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.579684,
+                24.983782
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國立臺灣師範大學公館校區",
+            "addr": "臺北市文山區汀州路4段88號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.537349,
+                25.007881
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "世新大學",
+            "addr": "臺北市文山區木柵路1段17巷1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.56454,
+                24.988576
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市文山運動中心",
+            "addr": "臺北市文山區興隆路3段222號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.539113,
+                25.004462
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市文山婦女暨家庭服務中心",
+            "addr": "臺北市文山區景後街151號3樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.542082,
+                24.989977
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "考選部",
+            "addr": "臺北市文山區試院路1之1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5484761,
+                24.9878007
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "考選部國家考場",
+            "addr": "臺北市文山區木柵路1段72號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.56454,
+                24.988576
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "財政部臺北國稅局文山稽徵所",
+            "addr": "臺北市文山區木柵路3段220號6樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.571204,
+                24.992224
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市藝文推廣處（文山劇場）",
+            "addr": "臺北市文山區景文街32號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.541104,
+                24.992051
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館文山分館",
+            "addr": "臺北市文山區興隆路2段160號7樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.555296,
+                25.000257
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市兆如老人安養護中心",
+            "addr": "臺北市文山區政大二街129號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5874945,
+                24.9901573
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館永建分館",
+            "addr": "臺北市文山區木柵路1段177號4樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.56454,
+                24.988576
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府社會局文山社會福利服務中心",
+            "addr": "臺北市文山區興隆路2段160號6樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.555296,
+                25.000257
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館萬興分館",
+            "addr": "臺北市文山區萬壽路27號4樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.576816,
+                24.988738
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "財團法人優人文化藝術基金會永安藝文館",
+            "addr": "臺北市文山區木新路2段156之1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.564726,
+                24.982661
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北大眾捷運股份有限公司貓空纜車",
+            "addr": "臺北市文山區新光路2段28號1樓                     "
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.573904,
+                24.994511
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北大眾捷運股份有限公司貓空纜車",
+            "addr": "臺北市文山區新光路2段28號1樓                     "
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.573904,
+                24.994511
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北大眾捷運股份有限公司貓空纜車",
+            "addr": "臺北市文山區新光路2段28號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.573904,
+                24.994511
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館力行分館",
+            "addr": "臺北市文山區一壽街22號5樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.556424,
+                24.97963
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館景美分館",
+            "addr": "臺北市文山區羅斯福路5段176巷50號2至4樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.539822,
+                25.000364
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館木柵分館",
+            "addr": "臺北市文山區保儀路13巷3號4樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.569175,
+                24.988678
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館萬芳民眾閱覽室",
+            "addr": "臺北市文山區萬美街1段25號1至2樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.567582,
+                25.000408
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館景新分館",
+            "addr": "臺北市文山區景後街151號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.542082,
+                24.989977
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府社會局老人自費安養中心",
+            "addr": "臺北市文山區興隆路4段109巷30弄6號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.539245,
+                25.004192
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府社會局委託財團法人獎卿護理展望基金會經營管理臺北市文山老人養護中心",
+            "addr": "臺北市文山區興隆路2段95巷8號5樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.555296,
+                25.000257
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市文山老人服務中心",
+            "addr": "臺北市文山區萬壽路27號6樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.576816,
+                24.988738
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市文山親子館",
+            "addr": "臺北市文山區木柵路1段177號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.56454,
+                24.988576
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市公有興隆市場?",
+            "addr": "臺北市文山區興隆路2段97號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.555296,
+                25.000257
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國立政治大學",
+            "addr": "臺北市文山區指南路2段64號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.579684,
+                24.983782
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國家文官學院",
+            "addr": "臺北市南港區忠孝東路7段576號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5831,
+                25.045924
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府警察局南港分局",
+            "addr": "臺北市南港區向陽路150號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.594862,
+                25.055243
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "中央研究院",
+            "addr": "臺北市南港區研究院路2段128號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.614477,
+                25.0484532
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "中央研究院",
+            "addr": "臺北市研究院路2段128號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.614477,
+                25.0484532
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市南港運動中心",
+            "addr": "臺北市南港區玉成街69號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.581885,
+                25.048902
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "交通部臺灣鐵路管理局臺北運務段南港站",
+            "addr": "臺北市南港區南港路1段313號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.613262,
+                25.055301
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "交通部臺灣鐵路管理局臺北運務段南港站",
+            "addr": "臺北市南港區南港路1段313號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.613262,
+                25.055301
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北巿立聯合醫院附設南港門診部",
+            "addr": "臺北市南港區南港路1段360號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.613262,
+                25.055301
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立聯合醫院忠孝院區",
+            "addr": "臺北市南港區同德路87號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.586232,
+                25.046556
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "南港軟體工業園區管理委員會",
+            "addr": "臺北市南港區三重路19之10號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.613757,
+                25.058641
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北大眾捷運股份有限公司南港展覽館站",
+            "addr": "臺北市南港區研究院路1段1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.616723,
+                25.038616
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北大眾捷運股份有限公司南港站",
+            "addr": "臺北市南港區忠孝東路7段380號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5831,
+                25.045924
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市南港區公所",
+            "addr": "臺北市南港區南港路1段360號2樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.613262,
+                25.055301
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館舊莊分館",
+            "addr": "臺北市南港區舊莊街1段91巷11號3樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.617888,
+                25.042701
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "南港國際展覽中心",
+            "addr": "臺北市南港區經貿二路1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.617402,
+                25.056819
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市南港區戶政事務所",
+            "addr": "臺北市南港區南港路1段360號4樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.613262,
+                25.055301
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府環境保護局山豬窟游泳池",
+            "addr": "臺北市南港區舊莊街1段290巷32號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.617888,
+                25.042701
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府原住民族事務委員會北原會館",
+            "addr": "臺北市南港區向陽路49號4樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.594524,
+                25.053938
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館龍華民眾閱覽室",
+            "addr": "臺北市南港區東新街63巷8號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5866769,
+                25.0476602
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "衛生福利部",
+            "addr": "臺北市南港區忠孝東路6段488號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.583031,
+                25.045829
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "潤泰旭展股份有限公司CITY LINK南港店",
+            "addr": "臺北市南港區忠孝東路7段369號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5831,
+                25.045924
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "潤泰旭展股份有限公司CITY LINK南港店",
+            "addr": "臺北市南港區忠孝東路7段369號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5831,
+                25.045924
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "潤泰旭展股份有限公司CITY LINK南港店",
+            "addr": "臺北市南港區忠孝東路7段369號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5831,
+                25.045924
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "潤泰旭展股份有限公司CITY LINK南港店",
+            "addr": "臺北市南港區忠孝東路7段369號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5831,
+                25.045924
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "潤泰旭展股份有限公司CITY LINK南港店",
+            "addr": "臺北市南港區忠孝東路7段369號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5831,
+                25.045924
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "潤泰旭展股份有限公司CITY LINK南港店",
+            "addr": "臺北市南港區忠孝東路7段369號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5831,
+                25.045924
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "潤泰旭展股份有限公司CITY LINK南港店",
+            "addr": "臺北市南港區忠孝東路7段369號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5831,
+                25.045924
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "中國信託金融園區",
+            "addr": "臺北市南港區經貿二路186之1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.615359,
+                25.060112
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "台灣高速鐵路股份有限公司南港站",
+            "addr": "臺北市南港區南港路1段313號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.613262,
+                25.055301
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Global Mall南港車站",
+            "addr": "臺北市南港區忠孝東路7段371號地下1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5831,
+                25.045924
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "Global Mall南港車站",
+            "addr": "臺北市南港區忠孝東路7段371號地下1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5831,
+                25.045924
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "台北六福萬怡酒店",
+            "addr": "臺北市南港區忠孝東路7段359號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5831,
+                25.045924
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館南港分館",
+            "addr": "臺北市南港區南港路1段350號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.606194,
+                25.054301
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北流行音樂中心",
+            "addr": "臺北市南港區市民大道99號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.580789,
+                25.049489
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市內湖區健康服務中心",
+            "addr": "臺北市內湖區民權東路6段99號2樓之1"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.588998,
+                25.069664
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "三軍總醫院附設民眾診療服務處（內湖院區）",
+            "addr": "臺北市內湖區成功路2段325號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.590231,
+                25.076693
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "三軍總醫院附設民眾診療服務處（內湖院區）",
+            "addr": "臺北市內湖區成功路2段325號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.590231,
+                25.076693
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "康寧醫療財團法人康寧醫院",
+            "addr": "臺北市內湖區成功路5段420巷26號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.590252,
+                25.076614
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "中國醫藥大學附設醫院臺北分院",
+            "addr": "臺北市內湖區內湖路2段360號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.579178,
+                25.078663
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市環保局內湖垃圾焚化廠",
+            "addr": "臺北市內湖區安康路290號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.605624,
+                25.06271
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "大潤發流通事業股份有限公司南湖分公司",
+            "addr": "臺北市內湖區舊宗路1段188號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.574716,
+                25.070088
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府消防局防災科學教育館",
+            "addr": "臺北市內湖區成功路2段376號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.590231,
+                25.076693
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺灣士林地方法院（內湖民事大樓）",
+            "addr": "臺北市內湖區民權東路6段91號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.565647,
+                25.063248
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府警察局內湖分局",
+            "addr": "臺北市內湖區民權東路6段101號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.565647,
+                25.063248
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府警察局內湖分局文德派出所",
+            "addr": "臺北市內湖區民權東路6段26號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.565647,
+                25.063248
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館內湖分館",
+            "addr": "臺北市內湖區民權東路6段99號6樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.565647,
+                25.063248
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館東湖分館",
+            "addr": "臺北市內湖區五分街6號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.612663,
+                25.067302
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館西湖分館",
+            "addr": "臺北市內湖區內湖路1段594號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.57926,
+                25.078689
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市內湖運動中心",
+            "addr": "臺北市內湖區洲子街12號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.586473,
+                25.078195
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "哈拉影城有限公司",
+            "addr": "臺北市內湖區康寧路3段72號3樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.617564,
+                25.067879
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "中欣實業股份有限公司-特力屋內湖店",
+            "addr": "臺北市內湖區新湖三路23號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.574146,
+                25.061896
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府社會局-內湖老人服務中心",
+            "addr": "臺北市內湖區康樂街110巷16弄20號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.618992,
+                25.070339
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "台北花卉產銷股份有限公司",
+            "addr": "臺北市內湖區新湖三路28號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.57398,
+                25.06375
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "台北花卉產銷股份有限公司",
+            "addr": "臺北市內湖區新湖三路36號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.575186,
+                25.063344
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市內湖親子館暨托嬰中心",
+            "addr": "臺北市內湖區內湖路1段659號2樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.57926,
+                25.078689
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "潤泰旭展股份有限公司（Citylink內湖店）",
+            "addr": "臺北市內湖區成功路4段188號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.590245,
+                25.076641
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市網球中心",
+            "addr": "臺北市內湖區民權東路6段208號2樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.565647,
+                25.063248
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館西中分館",
+            "addr": "臺北市內湖區內湖路1段285巷66號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.57926,
+                25.078689
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市士林區健康服務中心",
+            "addr": "臺北市士林區中正路439號2樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.523562,
+                25.094762
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國立故宮博物院",
+            "addr": "臺北市士林區至善路2段221號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.549447,
+                25.101219
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國立故宮博物院",
+            "addr": "臺北市士林區至善路2段221號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.549447,
+                25.101219
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國立故宮博物院",
+            "addr": "臺北市士林區至善路2段221號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.549447,
+                25.101219
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺灣士林地方法院",
+            "addr": "臺北市士林區士東路190號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.533205,
+                25.111779
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市士林區戶政事務所",
+            "addr": "臺北市士林區中正路439號3樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.523562,
+                25.094762
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立陽明教養院",
+            "addr": "臺北市士林區凱旋路61巷4弄9號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5402798,
+                25.1348553
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立天文科學教育館",
+            "addr": "臺北市士林區基河路363號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.518544,
+                25.095906
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市職能發展學院",
+            "addr": "臺北市士林區士東路301號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.538307,
+                25.115525
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國立臺灣科學教育館",
+            "addr": "臺北市士林區士商路189號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.516765,
+                25.096161
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立聯合醫院陽明院區",
+            "addr": "臺北市士林區雨聲街105號2樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.531267,
+                25.104607
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "新光醫療財團法人新光吳火獅紀念醫院",
+            "addr": "臺北市士林區文昌路95號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.520143,
+                25.096399
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "大葉高島屋百貨股份有限公司",
+            "addr": "臺北市士林區忠誠路2段55號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.529632,
+                25.11082
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "大葉高島屋百貨股份有限公司",
+            "addr": "臺北市士林區忠誠路2段55號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.529632,
+                25.11082
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "家樂福股份有限公司天母分公司",
+            "addr": "臺北市士林區德行西路47號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.522827,
+                25.10552
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "新光三越百貨股份有限公司台北天母店A館",
+            "addr": "臺北市士林區天母東路68號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.533451,
+                25.118028
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "新光三越百貨股份有限公司台北天母店B館",
+            "addr": "臺北市士林區忠誠路2段200號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5300614,
+                25.110844
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "太平洋崇光百貨股份有限公司天母店",
+            "addr": "臺北市士林區中山北路6段77號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.528123,
+                25.09362
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "台灣電力公司台北北區營業處",
+            "addr": "臺北市士林區中山北路5段380號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.525288,
+                25.102871
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館天母分館",
+            "addr": "臺北市士林區中山北路7段154巷6號3樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.525208,
+                25.103031
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺灣士林地方法院檢察署",
+            "addr": "臺北市士林區士東路190號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.533205,
+                25.111779
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "交通部公路總局臺北市區監理所士林監理站",
+            "addr": "臺北市士林區承德路5段80號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.52238,
+                25.080504
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北數位藝術中心",
+            "addr": "臺北市士林區福華路180號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.522135,
+                25.105834
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市士林運動中心",
+            "addr": "臺北市士林區士商路1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.521498,
+                25.08941
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "特力屋股份有限公司士林分公司",
+            "addr": "臺北市士林區基河路258號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.521537,
+                25.091351
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北自來水事業處陽明營業分處",
+            "addr": "臺北市士林區中山北路5段82號之1"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.525288,
+                25.102871
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北大眾捷運股份有限公司劍潭站",
+            "addr": "臺北市士林區中山北路5段65號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.525288,
+                25.102871
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府警察局士林分局",
+            "addr": "臺北市士林區文林路235號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.526456,
+                25.090584
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館葫蘆堵分館",
+            "addr": "臺北市士林區延平北路5段136巷1號5樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5029237,
+                25.0893065
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府體育局（天母棒球場）",
+            "addr": "臺北市士林區忠誠路2段77號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.529632,
+                25.11082
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市士林區公所公民會館",
+            "addr": "臺北市士林區大東路75號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.525614,
+                25.090299
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市公有士林市場",
+            "addr": "臺北市士林區基河路101號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.524299,
+                25.088389
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市士林地政事務所",
+            "addr": "臺北市士林區中正路439號5樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.523562,
+                25.094762
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺灣士林地方法院（士林簡易庭）",
+            "addr": "臺北市士林區重慶北路4段2號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5107967,
+                25.0856362
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立陽明教養院委託天主教耕莘醫療財團法人永和耕莘醫院經營管理臺北市永福之家",
+            "addr": "臺北市士林區莊頂路2號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.55318729438,
+                25.1104986
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市士林親子館",
+            "addr": "臺北市士林區基河路130號1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.522778,
+                25.089133
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館李科永紀念圖書館",
+            "addr": "臺北市士林區中正路15號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.531009,
+                25.095996
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北高等行政法院",
+            "addr": "臺北市士林區福國路101號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.521588,
+                25.101882
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市公有士東市場",
+            "addr": "臺北市士林區士東路100號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.529467,
+                25.111905
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立兒童新樂園",
+            "addr": "臺北市士林區士東路100號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.529467,
+                25.111905
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國立傳統藝術中心（台灣戲曲中心）",
+            "addr": "臺北市士林區文林路751號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.51924,
+                25.102679
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "陽明山國家公園管理處（冷水坑遊客服務站）",
+            "addr": "臺北市士林區菁山路101巷170號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5742895,
+                25.1671928
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "陽明山國家公園管理處（擎天崗遊客服務站）",
+            "addr": "臺北市士林區菁山路101巷246號1樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.57429,
+                25.167193
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市士林區公所",
+            "addr": "臺北市士林區中正路439號9樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.523562,
+                25.094762
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府工務局公園路燈工程管理處",
+            "addr": "臺北市士林區福林路60號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.530215,
+                25.094293
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北表演藝術中心",
+            "addr": "臺北市士林區劍潭路1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.522127,
+                25.083674
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府消防局第四救災救護大隊士林中隊劍潭分隊",
+            "addr": "臺北市士林區中北路5段376號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.524207,
+                25.09184
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市北投區健康服務中心",
+            "addr": "臺北市北投區石牌路2段111號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.509953,
+                25.112848
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北北投區戶政事務所",
+            "addr": "臺北市北投區新市街30號3樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.502686,
+                25.132602
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館石牌分館",
+            "addr": "臺北市北投區明德路208巷5號4樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.522129,
+                25.11359
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市教師研習中心",
+            "addr": "臺北市北投區建國街20號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.549372161079,
+                25.150611
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "陽明山國家公園管理處（遊客中心）",
+            "addr": "臺北市北投區竹子湖路1之20號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.544276,
+                25.160865
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "北投婦女暨家庭服務中心",
+            "addr": "臺北市北投區中央北路1段12號6樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.495225,
+                25.136599
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立聯合醫院附設北投門診部",
+            "addr": "臺北市北投區新市街30號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.502686,
+                25.132602
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北榮民總醫院",
+            "addr": "臺北市北投區石牌路2段201號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.509953,
+                25.112848
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北榮民總醫院",
+            "addr": "臺北市北投區石牌路2段201號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.509953,
+                25.112848
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北榮民總醫院",
+            "addr": "臺北市北投區石牌路2段201號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.509953,
+                25.112848
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北榮民總醫院",
+            "addr": "臺北市北投區石牌路2段201號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.509953,
+                25.112848
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北榮民總醫院",
+            "addr": "臺北市北投區石牌路2段322號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.509953,
+                25.112848
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北榮民總醫院（第三門診）",
+            "addr": "臺北市北投區石牌路2段322號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.509953,
+                25.112848
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立關渡醫院",
+            "addr": "臺北市北投區知行路225巷12號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.466198,
+                25.120467
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "振興醫療財團法人振興醫院",
+            "addr": "臺北市北投區振興街45號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.522188,
+                25.116453
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "醫療財團法人辜公亮基金會和信治癌中心醫院",
+            "addr": "臺北市北投區立德路125號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.471869,
+                25.127048
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國防醫學院三軍總醫院北投分院",
+            "addr": "臺北市北投區新民路60號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.509789,
+                25.139153
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市北投運動中心",
+            "addr": "臺北市北投區石牌路1段39巷100號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.509936,
+                25.112839
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "春天酒店股份有限公司",
+            "addr": "臺北市北投區幽雅路18號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.513689,
+                25.137753
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府環境保護局北投垃圾焚化廠",
+            "addr": "臺北市北投區洲美街271號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5126864,
+                25.0988128
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府警察局北投分局",
+            "addr": "臺北市北投區中央北路1段1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.495225,
+                25.136599
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館北投分館",
+            "addr": "臺北市北投區光明路251號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5025325,
+                25.1345162
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館清江分館",
+            "addr": "臺北市北投區公館路198號3樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.507528,
+                25.127571
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館吉利分館",
+            "addr": "臺北市北投區立農街1段366號7樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.505835,
+                25.119344
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館秀山民眾閱覽室",
+            "addr": "臺北市北投區中和街534號5至9樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.493321,
+                25.145567
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市立圖書館永明民眾閱覽室",
+            "addr": "臺北市北投區石牌路2段115號7樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.509953,
+                25.112848
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "日勝生加賀屋國際溫泉飯店股份有限公司",
+            "addr": "臺北市北投區光明路236號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.504533,
+                25.13643
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府原住民族事務委員會凱達格蘭文化館",
+            "addr": "臺北市北投區中山路3之1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.505831,
+                25.137121
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北大眾捷運股份有限公司北投站",
+            "addr": "臺北市北投區光明路1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.498593,
+                25.131931
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "北投溫泉博物館",
+            "addr": "臺北市北投區中山路2號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.507141,
+                25.136589
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "國防部福利處臺北市北投區福利供應站",
+            "addr": "臺北市北投區中央北路2段338號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.495118,
+                25.13639
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府社會局北投社會福利服務中心",
+            "addr": "臺北市北投區新市街30號5樓"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.502686,
+                25.132602
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "社團法人台北市野鳥學會關渡自然公園管理處",
+            "addr": "臺北市北投區關渡路55號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.4691576,
+                25.1194562
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市北投親子館暨托嬰中心",
+            "addr": "臺北市北投區光明路22號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.49925,
+                25.132573
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北大眾捷運股份有限公司（北投會館）",
+            "addr": "臺北市北投區大業路527巷88號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.482102,
+                25.134968
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "好市多股份有限公司北投分公司",
+            "addr": "臺北市北投區立德路117號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.471899,
+                25.127124
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府消防局第四大隊陽明山分隊",
+            "addr": "臺北市北投區勝利路1號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5466833,
+                25.1519322
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "臺北市政府環境保護局北投垃圾焚化廠",
+            "addr": "臺北市北投區洲美街271號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.5126864,
+                25.0988128
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "陽明山國家公園管理處陽明書屋",
+            "addr": "臺北市北投區中興路12號 "
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.540826,
+                25.1608384
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "家樂福北投店",
+            "addr": "臺北市北投區中和街366號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.499459,
+                25.141721
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "北投老爺酒店",
+            "addr": "臺北市北投區中和街2號"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.503692,
+                25.137635
+            ]
+        }
+    }
+]

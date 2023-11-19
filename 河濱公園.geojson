@@ -1,0 +1,202 @@
+{
+	"type": "FeatureCollection",
+	"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+	"features": [
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "搖搖馬2座",
+            "addr": "木柵河濱公園羽球場旁"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.544917,
+                24.985136
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "溜滑梯",
+            "addr": "古亭河濱公園永福橋下"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.528081,
+                25.011536
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "搖搖馬2座",
+            "addr": "中正河濱公園網球場旁"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.514444,
+                25.023644
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "搖搖馬4座",
+            "addr": "道南右岸河濱公園恆光橋下"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.567544,
+                24.981356
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "搖搖馬2座",
+            "addr": "道南右岸河濱公園捷運橋下"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.574231,
+                24.997219
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "共融式遊戲場",
+            "addr": "道南右岸河濱公園"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.566778,
+                24.981344
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "共融遊戲場",
+            "addr": "大佳河濱公園"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.534939,
+                25.074581
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "搖搖馬3座",
+            "addr": "成美右岸河濱公園興安宮"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.58385,
+                25.054794
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "各場地搖搖馬3座",
+            "addr": "成美右岸河濱公園基13外側3座場地"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.589531,
+                25.058069
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "各場地搖搖馬3座",
+            "addr": "成美右岸河濱公園成功橋下2座場地"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.590803,
+                25.059131
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "搖搖馬3座",
+            "addr": "南湖右岸河濱公園基12外側"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.596364,
+                25.060494
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "搖搖馬2座",
+            "addr": "雙園河濱公園新4外側"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.488267,
+                25.032808
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "共融式遊戲場",
+            "addr": "華中河濱公園網球場旁"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.492547,
+                25.017606
+            ]
+        }
+    },
+    {
+        "type": "Feature",
+        "properties": {
+            "name": "搖搖馬2座",
+            "addr": "彩虹河濱公園麥帥二橋下"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.573131,
+                25.057853
+            ]
+        }
+    }
+]
+}
